@@ -1,0 +1,117 @@
+body{
+    background-image: url(./defd359ad8261995cb9ebb434c0299a6.jpg);
+}
+
+#navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 8vh;
+    width: 100%;
+    justify-content: space-around;
+    border-bottom:1px solid black ;
+    background-color: white;
+    list-style: none;
+    
+}
+#your{
+    background-color: aqua;
+    padding: 1cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+padding-bottom: 0.5cm;
+padding-top: 0.5cm;
+}
+a{
+    text-decoration: none;
+    border-right: 1px;
+    list-style: none;
+    margin-left:2cm ;
+}
+.contact{
+    margin-top: 1cm;
+    margin-left: 4cm;
+    width: 800px;
+    height: 550px;
+    border: 1px solid black;
+    float: left;
+    background-color: white;
+    margin-bottom: 1cm;
+}
+#contact{
+    color:rgba(2, 55, 55, 0.708) ;
+    margin-left: 0.7cm;
+    border-bottom: 1px solid black;
+}
+#namecon{
+    width: 92%;
+    margin-left: 0.7cm;
+    margin-bottom: 0.5cm;
+    box-sizing: border-box;
+}
+#name{
+    margin-left: 0.7cm;
+    box-sizing: border-box;   
+}
+.email{
+    margin-left: 0.7cm;
+    box-sizing: border-box;   
+}
+.emailcon{
+    width: 92%;
+    margin-left: 0.7cm;
+    margin-bottom: 0.5cm;
+    box-sizing: border-box;
+}
+.Message{
+    margin-left: 0.7cm;
+    box-sizing: border-box;   
+}
+.textarea{
+    margin-left: 0.7cm;
+}
+.gonder{
+    margin-left: 0.7cm;
+    margin-top: 0.7cm;
+    background-color: aqua;
+}
+.contactsag{
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    text-align: center;
+    background-color: white;
+border: 1px solid red;
+}
+.yazilar{
+   border: 1px solid red;
+   box-sizing: border-box;
+}
+#git{
+    width: 2cm;
+    height: 2cm;
+    float: left;
+    margin-right: 3cm;
+}
+#link{
+    width: 2cm;
+    height: 2cm;
+    float: left;
+}
+#insta{
+    width: 2cm;
+    height: 2cm;
+    float: left;
+}
+.footer{
+    clear: both;
+   
+    text-align: center;
+    padding: 0.6cm;
+    margin-top: 2cm;
+    background-color: dimgrey;
+    border-top: 0.6cm solid green;
+}
